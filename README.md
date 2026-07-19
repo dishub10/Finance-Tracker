@@ -1,2 +1,8 @@
-# Finance-Tracker
-The Personal Finance Tracker is a web-based application that helps users manage their personal finances by tracking income, expenses, and savings in one place. It provides an easy-to-use interface where users can record financial transactions, categorize expenses, and monitor their spending habits.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
